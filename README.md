@@ -16,9 +16,9 @@
 
 ### Tool
 > ssh | pexpect
-1. SSH 远程操作服务器 | [SSHHelper.py](com/wucysh.tool/SSHHelper.py)
-2. SSH 隧道转发  | [SSH_Agentr.py](com/wucysh.tool/SSH_Agentr.py)
-3. 文件编码，读写，目录遍历  | [FileHolder.py](/com/wucysh.tool/FileHolder.py)
+1. SSH 远程操作服务器 | [SSHHelper.py](com/wucysh/tools/SSHHelper.py)
+2. SSH 隧道转发  | [SSH_Agentr.py](com/wucysh/tools/SSH_Agentr.py)
+3. 文件编码，读写，目录遍历  | [FileHolder.py](/com/wucysh/tools/FileHolder.py)
 
 ### Game
 1. [[转]微信跳一跳：图片处理，电脑通过Python操作手机](/com/wucysh.game/wechat_jump/README.md)
