@@ -3,10 +3,10 @@
 
 ### webcrawler
  > selenium | requests | jieba 分词
-1. 贝壳二手房：交易信息数据,jieba |[BeikeHousePriceInfo.py](/com/wucysh.webcrawler/BeikeHousePriceInfo.py)
-2. 有道云笔记：cookie登录，导出md文件 |[YouDaoNotes.py](/com/wucysh.webcrawler/YouDaoNotes.py)
+1. 贝壳二手房：交易信息数据,jieba |[BeikeHousePriceInfo.py](/com/pycat/webcrawler/BeikeHousePriceInfo.py)
+2. 有道云笔记：cookie登录，导出md文件 |[YouDaoNotes.py](/com/pycat/webcrawler/YouDaoNotes.py)
 3. [[转]有道云笔记导出XML或docx(账号版) ](https://github.com/wesley2012/YoudaoNoteExport)
-4. 中国考研网：调剂信息（翻译硕士） |[MTI.py](/com/wucysh.webcrawler/MTI.py)
+4. 中国考研网：调剂信息（翻译硕士） |[MTI.py](/com/pycat/webcrawler/MTI.py)
 
 ### DB
 > 数据库操作 |jaydebeapi |jdbc |mysql
@@ -16,11 +16,11 @@
 
 ### Tool
 > ssh | pexpect
-1. SSH 远程操作服务器 | [SSHHelper.py](com/wucysh/tools/SSHHelper.py)
-2. SSH 隧道转发  | [SSH_Agentr.py](com/wucysh/tools/SSH_Agentr.py)
-3. 文件编码，读写，目录遍历  | [FileHolder.py](/com/wucysh/tools/FileHolder.py)
+1. SSH 远程操作服务器 | [SSHHelper.py](com/pycat/tools/SSHHelper.py)
+2. SSH 隧道转发  | [SSH_Agentr.py](com/pycat/tools/SSH_Agentr.py)
+3. 文件编码，读写，目录遍历  | [FileHolder.py](/com/pycat/tools/FileHolder.py)
 
 ### Game
-1. [[转]微信跳一跳：图片处理，电脑通过Python操作手机](/com/wucysh.game/wechat_jump/README.md)
+1. [[转]微信跳一跳：图片处理，电脑通过Python操作手机](/com/pycat/game/wechat_jump/README.md)
 
 
